@@ -1,0 +1,60 @@
+[
+	{
+		"titre":"outils",
+	}
+	{
+		"type":"0",
+		"name":"thermos ce que tu veux",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/rkG51ouGZ4"
+	},
+	{
+		"type":"0",
+		"name":"horloge \"design\"",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/SJbz8XaeE"
+	},
+	{
+		"type":"0",
+		"name":"noise 3d(lag)",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/By5qbRneN"
+	},
+	{
+		"type":"0",
+		"name":"math multiplication",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/BJ7Rtuc1N"
+	},
+	{
+		"type":"0",
+		"name":"chaos multifonction",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/SJ6lDdFkV"
+	},
+	{
+		"type":"0",
+		"name":"mandelbrot set",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/HkefXvtyN"
+	},
+	{
+		"type":"0",
+		"name":"celular automata",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/HyU7QgwCm"
+	},
+	{
+		"type":"0",
+		"name":"aprox de pi",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/rkSzTGsRQ"
+	},
+	{
+		"type":"1",
+		"name":"emulateur numwork (pas fait avec p5)",
+		"url":""
+	},
+	{
+		"type":"1",
+		"name":"generateur drapeau v2",
+		"url":""
+	},
+	{
+		"type":"1",
+		"name":"generateur lettre v1",
+		"url":""
+	}
+]
