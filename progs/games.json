@@ -1,4 +1,5 @@
-"all":[{
+{[	
+ 	{
 		"titre":"jeux"
 	},
 	{
@@ -16,4 +17,4 @@
 		"name":"generateur et player labyrinth",
 		"url":""
 	}
-]
+]}
