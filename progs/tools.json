@@ -45,16 +45,16 @@
 	{
 		"type":"1",
 		"name":"emulateur numwork (pas fait avec p5)",
-		"url":""
+		"url":"./outils/emulateur/simulator.html"
 	},
 	{
 		"type":"1",
 		"name":"generateur drapeau v2",
-		"url":""
+		"url":"./outils/gendrap/drap.html"
 	},
 	{
 		"type":"1",
 		"name":"generateur lettre v1",
-		"url":""
+		"url":"./outils/genlet/let.html"
 	}
 ]
