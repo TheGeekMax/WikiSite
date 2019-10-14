@@ -15,6 +15,6 @@
 	{
 		"type":"1",
 		"name":"generateur et player labyrinth",
-		"url":"./progs/jeux/maze/maze.html"
+		"url":"./jeux/maze/maze.html"
 	}
 ]
