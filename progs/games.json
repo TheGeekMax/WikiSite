@@ -16,5 +16,10 @@
 		"type":"1",
 		"name":"generateur et player labyrinth",
 		"url":"./jeux/maze/maze.html"
+	},
+	{
+		"type":"1",
+		"name":"rogue like ascii",
+		"url":"./jeux/asciiRogue/index.html"
 	}
 ]
