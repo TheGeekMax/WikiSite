@@ -19,29 +19,10 @@
 	},
 	{
 		"type":"0",
-		"name":"math multiplication",
-		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/BJ7Rtuc1N"
-	},
-	{
-		"type":"0",
-		"name":"chaos multifonction",
-		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/SJ6lDdFkV"
-	},
-	{
-		"type":"0",
-		"name":"mandelbrot set",
-		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/HkefXvtyN"
-	},
-	{
-		"type":"0",
 		"name":"celular automata",
 		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/HyU7QgwCm"
 	},
-	{
-		"type":"0",
-		"name":"aprox de pi",
-		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/rkSzTGsRQ"
-	},
+	
 	{
 		"type":"1",
 		"name":"emulateur numwork (pas fait avec p5)",
