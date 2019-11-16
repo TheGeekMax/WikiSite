@@ -6,5 +6,25 @@
 		"type":"1",
 		"name":"graphique ex math echantillon",
 		"url":"./math/graph"
+	},
+	{
+		"type":"0",
+		"name":"math multiplication",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/BJ7Rtuc1N"
+	},
+	{
+		"type":"0",
+		"name":"chaos multifonction",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/SJ6lDdFkV"
+	},
+	{
+		"type":"0",
+		"name":"mandelbrot set",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/HkefXvtyN"
+	},
+	{
+		"type":"0",
+		"name":"aprox de pi (a la Monte-Carlo)",
+		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/rkSzTGsRQ"
 	}
 ]
