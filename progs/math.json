@@ -31,5 +31,10 @@
 		"type":"2",
 		"name":"aprox de pi (a la Monte-Carlo)",
 		"url":"./math/aprox pi"
+	},
+	{
+		"type":"1",
+		"name":"Trèfle équilatère (trefle cheulou)",
+		"url":"./math/lumiere"
 	}
 ]
