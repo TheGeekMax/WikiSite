@@ -23,6 +23,11 @@
 		"url":"https://editor.p5js.org/maximesanciaume@gmail.com/full/HkefXvtyN"
 	},
 	{
+		"type":"1",
+		"name":"Caustique de cercle (reflet de la lumiere sur une tasse",
+		"url":"./math/lumiere"
+	},
+	{
 		"type":"2",
 		"name":"aprox de pi (a la Monte-Carlo)",
 		"url":"./math/aprox pi"
