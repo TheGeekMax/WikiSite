@@ -37,5 +37,10 @@
 		"type":"1",
 		"name":"generateur lettre v1",
 		"url":"./outils/genlet"
+	},
+	{
+		"type":"1",
+		"name":"le monde des fleures (fonction polaire)",
+		"url":"./outils/flower power"
 	}
 ]
