@@ -36,5 +36,10 @@
 		"type":"1",
 		"name":"Trèfle équilatère (trefle cheulou)",
 		"url":"./math/trefle"
+	},
+	{
+		"type":"1",
+		"name":"fractal autosimilaire",
+		"url":"./math/fractal"
 	}
 ]
